@@ -1,0 +1,697 @@
+{
+  "metadata_version" : "7",
+  "sources" : {
+    "generated" : "2025-04-12T13:46:23+07:00[Asia/Jakarta]",
+    "os" : "windows",
+    "os_name" : "Windows 11.0",
+    "kind" : "project",
+    "name" : "ebelanja_mobile",
+    "project_id" : "ebelanja-mobile",
+    "project_vcs_commit_id" : "a5b91c68045aa7abed2395ddd542c863aef5ce34"
+  },
+  "generation_statistics" : {
+    "file_index_usages" : {
+      "com.mallowigi.icons.associations.fileAssociationsIndex" : 59882,
+      "css.template.selectors" : 40,
+      "CssIndex" : 51,
+      "DomFileIndex" : 735,
+      "fileIncludes" : 765,
+      "FrameworkDetectionIndex" : 0,
+      "HashFragmentIndex" : 12,
+      "html5.custom.attributes.index" : 37,
+      "HtmlTagIdIndex" : 40,
+      "IdIndex" : 56742,
+      "json.file.root.values" : 2372,
+      "php.aliased.trait.method.name" : 324,
+      "php.array.access.offsets" : 324,
+      "php.array.shapes.entries" : 324,
+      "php.class.alias.fqn" : 324,
+      "php.class.alias.name" : 324,
+      "php.class.alias.to.class" : 324,
+      "php.class.attributes.name" : 324,
+      "php.class.fqn" : 324,
+      "php.class.name" : 324,
+      "php.class.to.class.alias" : 324,
+      "php.constant.name" : 324,
+      "php.constants.default.array.shapes" : 324,
+      "php.constants.default.expected.arguments" : 324,
+      "php.doc.type.aliases.index" : 324,
+      "php.doctag.user.name" : 324,
+      "php.exit.point.function.index" : 324,
+      "php.expected.function.arguments" : 324,
+      "php.expected.function.return.values" : 324,
+      "php.field.names.accessed.by.the.constructor" : 324,
+      "php.fields.default.value.matchers" : 324,
+      "php.file.constants.default.value.matchers" : 324,
+      "php.func.get.arg.usage.index" : 324,
+      "php.function.always.re" : 324,
+      "php.function.name" : 324,
+      "php.function.parameters.used.as.regexp" : 324,
+      "php.functions.with.not.catched.dynamic.passed.calls" : 324,
+      "php.generator.operands.type.index" : 324,
+      "php.generic.template.index" : 324,
+      "php.global.assignment.index" : 324,
+      "php.inferred.meta.pattern.index" : 324,
+      "php.interface.fqn" : 324,
+      "php.invoke.calls.offsets" : 324,
+      "php.max.language.level" : 324,
+      "php.meta.type.inference.mapping" : 10,
+      "php.method.name" : 324,
+      "php.namespace.inheritance" : 324,
+      "php.not.used.parameters" : 324,
+      "php.parameters.default.value.matchers" : 324,
+      "php.putenv.arguments" : 324,
+      "php.serialize.function.calls.offsets" : 324,
+      "php.trait.usage" : 324,
+      "php.unit.covers" : 324,
+      "php.unit.data.providers" : 324,
+      "php.used.parameters.array.keys" : 324,
+      "php.variable.name" : 324,
+      "psalm.constant.reference.wildcard" : 324,
+      "psalm.no.return" : 324,
+      "RelaxSymbolIndex" : 717,
+      "ru.adelf.idea.php.dotenv.keyValues" : 2,
+      "SchemaTypeInheritance" : 11,
+      "TodoIndex" : 56215,
+      "Trigram.Index" : 56817,
+      "XmlNamespaces" : 15,
+      "XmlTagNames" : 11,
+      "XsltSymbolIndex" : 717
+    },
+    "stub_file_element_type_usages" : {
+      "CSS.file:CSS" : 11,
+      "php.FILE:PHP" : 324,
+      "psi.file:HTML" : 37,
+      "psi.file:Ini" : 4,
+      "psi.file:Makefile" : 13,
+      "psi.file:Markdown" : 2005
+    }
+  },
+  "intellij" : {
+    "product_code" : "PS",
+    "version" : "2024.3.4",
+    "build" : "PS-243.25659.45",
+    "loaded_plugins" : [ ],
+    "disabled_plugins" : [ {
+      "id" : "AngularJS",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "Docker",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "JSIntentionPowerPack",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "JavaScript",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "JavaScriptDebugger",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "Karma",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "NodeJS",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "PerforceDirectPlugin",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "Subversion",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.deadlock.scsyntax",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.completion.ml.ranking",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.database",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.diagram",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.ideolog",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.ja",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.jsonpath",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.ko",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.marketplace.ml",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.php.psalm",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.php.tools.quality.phpstan",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.plugins.all_hallows_eve.colorscheme",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.plugins.blackboard.colorscheme",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.plugins.cobalt.colorscheme",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.plugins.eclipsekeymap",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.plugins.monokai.colorscheme",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.plugins.netbeanskeymap",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.plugins.phpstorm.solarized.colorscheme",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.plugins.rails_casts.colorscheme",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.plugins.twilight.colorscheme",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.plugins.vibrantink.colorscheme",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.plugins.visualstudiokeymap",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.plugins.vscodekeymap",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.plugins.warmneon.colorscheme",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.plugins.watcher",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.plugins.webcomponents",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.react",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.searcheverywhere.ml",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.stylelint",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.swagger",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.tailwindcss",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.tasks",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.tasks.timeTracking",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.intellij.zh",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.jetbrains.codeWithMe",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.jetbrains.gateway",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.jetbrains.performancePlugin",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.jetbrains.php.behat",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.jetbrains.php.codeception",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.jetbrains.php.dql",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.jetbrains.php.drupal",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.jetbrains.php.eval",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.jetbrains.php.framework",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.jetbrains.php.joomla",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.jetbrains.php.phpspec",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.jetbrains.php.rector",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.jetbrains.php.wordPress",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.jetbrains.php.workshop",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.jetbrains.restClient",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.jetbrains.twig",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "com.pestphp.pest-intellij",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "cucumber-javascript",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "gherkin",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "hg4idea",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "hunspell",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "intellij.nextjs",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "intellij.prettierJS",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "intellij.vitejs",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "intellij.webp",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "intellij.webpack",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "org.editorconfig.editorconfigjetbrains",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "org.intellij.intelliLang",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "org.intellij.plugins.postcss",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "org.intellij.qodana",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "org.jetbrains.completion.full.line",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "org.jetbrains.plugins.docker.gateway",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "org.jetbrains.plugins.github",
+      "version" : "243.25659.45-ultimate"
+    }, {
+      "id" : "org.jetbrains.plugins.less",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "org.jetbrains.plugins.node-remote-interpreter",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "org.jetbrains.plugins.phpstorm-docker",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "org.jetbrains.plugins.phpstorm-wsl",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "org.jetbrains.plugins.sass",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "org.jetbrains.plugins.textmate",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "org.jetbrains.plugins.vagrant",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "org.jetbrains.plugins.vue",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "org.jetbrains.security.package-checker",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "tanvd.grazi",
+      "version" : "243.25659.45"
+    }, {
+      "id" : "tslint",
+      "version" : "243.25659.45"
+    } ]
+  },
+  "indexes" : {
+    "weak_hash" : "b122ec908fc4",
+    "os" : [ "linux", "mac", "windows" ],
+    "base_versions" : {
+      "hashes_algorithm_version" : "4",
+      "hashes_enumerator_version" : "37259",
+      "inverted_index_version" : "0",
+      "metadata_version" : "7",
+      "persistent_enumerator_version" : "37259",
+      "product_version" : "2024.3",
+      "shared_indexes_format" : "9",
+      "use_btree" : "true",
+      "vfs_version" : "846400"
+    },
+    "file_index_versions" : {
+      "com.mallowigi.icons.associations.fileAssociationsIndex" : {
+        "version" : "3:0",
+        "needs_forward_index" : true
+      },
+      "css.template.selectors" : {
+        "version" : "37:0",
+        "needs_forward_index" : true
+      },
+      "CssIndex" : {
+        "version" : "38:0",
+        "needs_forward_index" : true
+      },
+      "DomFileIndex" : {
+        "version" : "0:0",
+        "needs_forward_index" : true
+      },
+      "fileIncludes" : {
+        "version" : "6:0",
+        "needs_forward_index" : true
+      },
+      "FrameworkDetectionIndex" : {
+        "version" : "65536:0",
+        "needs_forward_index" : true
+      },
+      "HashFragmentIndex" : {
+        "version" : "19111503:0",
+        "needs_forward_index" : true
+      },
+      "html5.custom.attributes.index" : {
+        "version" : "1:0",
+        "needs_forward_index" : true
+      },
+      "HtmlTagIdIndex" : {
+        "version" : "3:0",
+        "needs_forward_index" : true
+      },
+      "IdIndex" : {
+        "version" : "22:0",
+        "needs_forward_index" : false
+      },
+      "json.file.root.values" : {
+        "version" : "5:0",
+        "needs_forward_index" : true
+      },
+      "php.aliased.trait.method.name" : {
+        "version" : "3:0",
+        "needs_forward_index" : true
+      },
+      "php.array.access.offsets" : {
+        "version" : "5:0",
+        "needs_forward_index" : true
+      },
+      "php.array.shapes.entries" : {
+        "version" : "9:0",
+        "needs_forward_index" : true
+      },
+      "php.class.alias.fqn" : {
+        "version" : "0:0",
+        "needs_forward_index" : true
+      },
+      "php.class.alias.name" : {
+        "version" : "1:0",
+        "needs_forward_index" : true
+      },
+      "php.class.alias.to.class" : {
+        "version" : "1:0",
+        "needs_forward_index" : true
+      },
+      "php.class.attributes.name" : {
+        "version" : "1:0",
+        "needs_forward_index" : true
+      },
+      "php.class.fqn" : {
+        "version" : "1:0",
+        "needs_forward_index" : true
+      },
+      "php.class.name" : {
+        "version" : "7:0",
+        "needs_forward_index" : true
+      },
+      "php.class.to.class.alias" : {
+        "version" : "1:0",
+        "needs_forward_index" : true
+      },
+      "php.constant.name" : {
+        "version" : "1:0",
+        "needs_forward_index" : true
+      },
+      "php.constants.default.array.shapes" : {
+        "version" : "1:0",
+        "needs_forward_index" : true
+      },
+      "php.constants.default.expected.arguments" : {
+        "version" : "2:0",
+        "needs_forward_index" : true
+      },
+      "php.doc.type.aliases.index" : {
+        "version" : "2:0",
+        "needs_forward_index" : true
+      },
+      "php.doctag.user.name" : {
+        "version" : "6:0",
+        "needs_forward_index" : true
+      },
+      "php.exit.point.function.index" : {
+        "version" : "10:0",
+        "needs_forward_index" : true
+      },
+      "php.expected.function.arguments" : {
+        "version" : "14:0",
+        "needs_forward_index" : true
+      },
+      "php.expected.function.return.values" : {
+        "version" : "4:0",
+        "needs_forward_index" : true
+      },
+      "php.field.names.accessed.by.the.constructor" : {
+        "version" : "4:0",
+        "needs_forward_index" : true
+      },
+      "php.fields.default.value.matchers" : {
+        "version" : "1:0",
+        "needs_forward_index" : true
+      },
+      "php.file.constants.default.value.matchers" : {
+        "version" : "1:0",
+        "needs_forward_index" : true
+      },
+      "php.func.get.arg.usage.index" : {
+        "version" : "0:0",
+        "needs_forward_index" : true
+      },
+      "php.function.always.re" : {
+        "version" : "8:0",
+        "needs_forward_index" : true
+      },
+      "php.function.name" : {
+        "version" : "4:0",
+        "needs_forward_index" : true
+      },
+      "php.function.parameters.used.as.regexp" : {
+        "version" : "1:0",
+        "needs_forward_index" : true
+      },
+      "php.functions.with.not.catched.dynamic.passed.calls" : {
+        "version" : "1:0",
+        "needs_forward_index" : true
+      },
+      "php.generator.operands.type.index" : {
+        "version" : "4:0",
+        "needs_forward_index" : true
+      },
+      "php.generic.template.index" : {
+        "version" : "6:0",
+        "needs_forward_index" : true
+      },
+      "php.global.assignment.index" : {
+        "version" : "2:0",
+        "needs_forward_index" : true
+      },
+      "php.inferred.meta.pattern.index" : {
+        "version" : "0:0",
+        "needs_forward_index" : true
+      },
+      "php.interface.fqn" : {
+        "version" : "0:0",
+        "needs_forward_index" : true
+      },
+      "php.invoke.calls.offsets" : {
+        "version" : "6:0",
+        "needs_forward_index" : true
+      },
+      "php.max.language.level" : {
+        "version" : "5:0",
+        "needs_forward_index" : true
+      },
+      "php.meta.type.inference.mapping" : {
+        "version" : "7:0",
+        "needs_forward_index" : true
+      },
+      "php.method.name" : {
+        "version" : "3:0",
+        "needs_forward_index" : true
+      },
+      "php.namespace.inheritance" : {
+        "version" : "2:0",
+        "needs_forward_index" : true
+      },
+      "php.not.used.parameters" : {
+        "version" : "1:0",
+        "needs_forward_index" : true
+      },
+      "php.parameters.default.value.matchers" : {
+        "version" : "3:0",
+        "needs_forward_index" : true
+      },
+      "php.putenv.arguments" : {
+        "version" : "4:0",
+        "needs_forward_index" : true
+      },
+      "php.serialize.function.calls.offsets" : {
+        "version" : "5:0",
+        "needs_forward_index" : true
+      },
+      "php.trait.usage" : {
+        "version" : "1:0",
+        "needs_forward_index" : true
+      },
+      "php.unit.covers" : {
+        "version" : "4:0",
+        "needs_forward_index" : true
+      },
+      "php.unit.data.providers" : {
+        "version" : "4:0",
+        "needs_forward_index" : true
+      },
+      "php.used.parameters.array.keys" : {
+        "version" : "1:0",
+        "needs_forward_index" : true
+      },
+      "php.variable.name" : {
+        "version" : "3:0",
+        "needs_forward_index" : true
+      },
+      "psalm.constant.reference.wildcard" : {
+        "version" : "0:0",
+        "needs_forward_index" : true
+      },
+      "psalm.no.return" : {
+        "version" : "2:0",
+        "needs_forward_index" : true
+      },
+      "RelaxSymbolIndex" : {
+        "version" : "0:0",
+        "needs_forward_index" : true
+      },
+      "ru.adelf.idea.php.dotenv.keyValues" : {
+        "version" : "7:0",
+        "needs_forward_index" : true
+      },
+      "SchemaTypeInheritance" : {
+        "version" : "2:0",
+        "needs_forward_index" : true
+      },
+      "TodoIndex" : {
+        "version" : "13:0",
+        "needs_forward_index" : true
+      },
+      "Trigram.Index" : {
+        "version" : "4:0",
+        "needs_forward_index" : false
+      },
+      "XmlNamespaces" : {
+        "version" : "8:0",
+        "needs_forward_index" : true
+      },
+      "XmlTagNames" : {
+        "version" : "1:0",
+        "needs_forward_index" : true
+      },
+      "XsltSymbolIndex" : {
+        "version" : "0:0",
+        "needs_forward_index" : true
+      }
+    },
+    "stub_index_versions" : {
+      "Css.ampersand.selector" : "46:2",
+      "Css.attr" : "46:2",
+      "Css.class" : "46:3",
+      "Css.custom.mixin" : "46:2",
+      "Css.custom.property" : "46:2",
+      "Css.custom.variable" : "46:3",
+      "Css.id" : "46:2",
+      "dom.elementClass" : "46:0",
+      "dom.namespaceKey" : "46:1",
+      "ini.property.key" : "46:2",
+      "makefile.target.index" : "46:2",
+      "markdown.header" : "46:2",
+      "markdown.header.anchor" : "46:2",
+      "php.attribute.fqn" : "46:2",
+      "php.class.shortName" : "46:2",
+      "php.classConstant.shortName" : "46:2",
+      "php.constant.case.sensitive.shortName" : "46:2",
+      "php.constant.shortName" : "46:2",
+      "php.enum.case.shortName" : "46:2",
+      "php.field.shortName" : "46:2",
+      "php.function.custom.index.map" : "46:2",
+      "php.function.never.return.type" : "46:2",
+      "php.function.non.never.return.type" : "46:2",
+      "php.function.non.void.return.type" : "46:2",
+      "php.function.shortName" : "46:2",
+      "php.function.void.return.type" : "46:2",
+      "php.inheritors" : "46:2",
+      "php.interface.shortName" : "46:2",
+      "php.method.custom.index.map" : "46:2",
+      "php.method.never.return.type" : "46:2",
+      "php.method.non.never.return.type" : "46:2",
+      "php.method.non.void.return.type" : "46:2",
+      "php.method.shortName" : "46:2",
+      "php.method.void.return.type" : "46:2",
+      "php.namespace.shortName" : "46:3",
+      "php.trait.fqn" : "46:2",
+      "php.trait.shortName" : "46:2",
+      "php.use.referenceName" : "46:2",
+      "php.variable.shortName" : "46:2"
+    },
+    "stub_file_element_type_versions" : {
+      "CSS.file:CSS" : "37",
+      "php.FILE:PHP" : "213",
+      "psi.file:ApacheConfig" : "0",
+      "psi.file:BladeHTML" : "0",
+      "psi.file:HTML" : "40",
+      "psi.file:Ini" : "0",
+      "psi.file:Makefile" : "0",
+      "psi.file:Markdown" : "0"
+    },
+    "composite_binary_stub_file_builder_versions" : {
+      "XML" : "com.intellij.util.xml.stubs.builder.DomStubBuilder:23;"
+    },
+    "hash_provider_versions" : {
+      "archive-crc" : "3",
+      "git" : "2"
+    }
+  }
+}
